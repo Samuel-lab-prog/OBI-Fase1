@@ -16,7 +16,7 @@ public class chuva {
             X[i] = scanner.nextInt();
         
         Map<Long, Integer> prefixSums = new HashMap<>();
-        prefixSums.put(0L, 1); // soma 0 já foi vista uma vez
+        prefixSums.put(0L, 1); 
 
         long somaAtual = 0;
         long totalIntervalos = 0;

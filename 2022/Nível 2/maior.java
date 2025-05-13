@@ -13,6 +13,7 @@ public class maior {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        scanner.close();
 
         int N = scanner.nextInt();
         int M = scanner.nextInt();
@@ -25,9 +26,6 @@ public class maior {
             }
         }
         System.out.println(-1);
-
-        scanner.close();
-
     }
 
 }
