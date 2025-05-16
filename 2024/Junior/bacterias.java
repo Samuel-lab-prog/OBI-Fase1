@@ -19,3 +19,4 @@ public class bacterias {
         scanner.close();
     }
 }
+/* Isso é apenas um teste para verificar se esta saída é de fato  */
