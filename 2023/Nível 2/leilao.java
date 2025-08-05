@@ -37,10 +37,3 @@ public class leilao {
         scanner.close();
     }
 }
-/*
-Eu passei um bom tempo nessa questão perguntando-me qual seria a melhor estrutura de dados para resolver um problema. Eu queria usar apenas um
-vetor mas não deu muito certo, acabei usando um vetor que armazena os nomes e outro que armazena os lances, como os dois são preenchidos ao  mesmo
-tempo, eles estão linkados pelo índice. Para descobrir o maior lance é simples: basta comparar com o lances[i-1], caso ele for menor, atualize o novo
-maior lance para lances[i] e o ganhador para nomes[i]. Perceba que há um if logo no começo para verificar se nenhum lance foi feito. Há também a
-necessidadae de ler o primeiro lance fora do for, pois não existe posicão [-1];
-*/
