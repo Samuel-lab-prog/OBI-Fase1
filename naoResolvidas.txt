@@ -1,5 +1,4 @@
-cifra -> 2022 nível 2
-tempo -> 2022 nível 2 nível 1
-zero -> 2022 nível 2 nível 1
-plano -> 2022 nível junior
-cifra -> 2022 nível 2
+jogo -> 2024 N2
+tempo -> 2021 N1 N2
+
+
