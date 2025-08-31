@@ -1,4 +1,5 @@
-jogo -> 2024 N2
-tempo -> 2021 N1 N2
 
+tempo -> 2021 N1 N2
+fissura -> 2020 N1 N2
+promocao -> 2020 N2
 
